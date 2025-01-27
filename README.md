@@ -46,3 +46,5 @@ Power BI: Data extraction, Data preprocessing, Data transformation, Interactive 
 2. Enhance dashboards with real-time data integration.
 3. Include additional datasets for a more comprehensive analysis.
 
+Note: For Power Bi file please  check release.
+
